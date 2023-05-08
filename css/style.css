@@ -1,0 +1,26 @@
+body {
+    /* background-color: khaki; */
+}
+h2 {
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 20px;
+}
+.text {
+    font-weight: bold;
+}
+.text-student{
+    color:blue;
+    text-decoration: underline;
+}
+.text-Naismmith{
+    font-weight: bold;
+}
+.text-wrote {
+    text-transform: uppercase;
+    color:green;
+    font-weight: bold;
+}
